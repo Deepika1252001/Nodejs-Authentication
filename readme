@@ -1,0 +1,21 @@
+#Projecat-Name   :          NODE.js AUTHENTICATION
+
+Server start on port :localhost:5000
+
+A full stack application made using node.js express.js and mongoDb as database.
+
+The libraries used
+expres
+mongoose
+ejs
+the frontend
+On the front, we have set views to make the application interactive, and the view engine is ejs.
+
+
+
+
+
+Enjoy your powerful application
+
+project given by : "Coding Ninjas"
+project submited by : "Deepika"
